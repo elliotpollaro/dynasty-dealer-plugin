@@ -2,7 +2,7 @@
 
 <img src="assets/logo.png" alt="Dynasty Dealer" width="96" align="right">
 
-[Dynasty Dealer](https://www.dynastydealer.com) values dynasty fantasy football players and rookie picks on a 0 to 10,000 scale, built from real Sleeper trades blended with community votes. This plugin connects Grok Bot and Cursor to Dynasty Dealer's hosted MCP server, so you can ask about dynasty trades in plain language.
+[Dynasty Dealer](https://www.dynastydealer.com/trade-calculator/superflex) values dynasty fantasy football players and rookie picks on a 0 to 10,000 scale, built from real Sleeper trades blended with community votes. This plugin connects Grok Bot and Cursor to Dynasty Dealer's hosted MCP server, so you can ask about dynasty trades in plain language.
 
 ## What it can do
 
