@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "dynasty-dealer": {
+      "type": "http",
+      "url": "https://www.dynastydealer.com/mcp/grok"
+    }
+  }
+}

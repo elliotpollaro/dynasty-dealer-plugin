@@ -1,0 +1,36 @@
+{
+  "name": "dynasty-dealer",
+  "displayName": "Dynasty Dealer",
+  "version": "1.0.0",
+  "description": "Dynasty fantasy football trade values, trade grades, rankings and real-trade prices, built from real Sleeper trades blended with community votes. Grade a trade, look up what players and rookie picks are worth in Superflex or 1QB, pull dynasty rankings, or see what a player or pick actually fetched in recent trades. Works without an account; sign in to use what your Dynasty Dealer plan includes. All tools are read-only.",
+  "author": {
+    "name": "Dynasty Dealer",
+    "email": "elliot@dynastydealer.com"
+  },
+  "homepage": "https://www.dynastydealer.com/ai-assistants",
+  "repository": "https://github.com/elliotpollaro/dynasty-dealer-plugin",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "dynasty dealer",
+    "dynasty",
+    "fantasy football",
+    "dynasty fantasy football",
+    "trade values",
+    "trade calculator",
+    "rankings",
+    "superflex",
+    "rookie picks",
+    "sleeper",
+    "nfl",
+    "mcp"
+  ],
+  "category": "integrations",
+  "tags": [
+    "dynasty-dealer",
+    "fantasy-football",
+    "sports",
+    "mcp"
+  ],
+  "mcpServers": "./mcp.json"
+}
